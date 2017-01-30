@@ -12,7 +12,7 @@ default['sublime-text']['version']['id'] = case node['sublime-text']['version'][
                                            when 2
                                              "2.0.2"
                                            when 3
-                                             "Build 3065"
+                                             "Build 3083"
                                            end 
 
 default['sublime-text']['platform']['release'] = 'trusty'
